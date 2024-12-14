@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://xaidor.github.io">
-    <img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
+    <img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-small-header.png" />
   </a>
 </p>
 
