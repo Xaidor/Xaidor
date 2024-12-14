@@ -1,4 +1,6 @@
-# Hi I'm Kaylen 
+<p align="center"><a href="https://xaidor.github.io"><img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-readme-header1.png" /></a></p>
+
+<br />
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
 </div>
