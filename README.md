@@ -1,7 +1,9 @@
-# Hi there! 👋
+# Hi I'm Kaylen 
+<div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
+</div>
 
-Welcome to my GitHub profile! I'm Kaylen, a passionate tech enthusiast with a love for exploring and experimenting with cutting-edge technologies.
-![code-kitten](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhtbnlrNTF1YjMwdHM4eGswZDRhcHgyZDNpM3I3OWo4b2JkNnBjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+Welcome to my GitHub profile!
 ---
 
 ### 🌟 About Me
