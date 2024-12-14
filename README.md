@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://medium.com/@KaylenAnderson">
-    <img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
+    <img width="100%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
   </a>
 </p>
 
