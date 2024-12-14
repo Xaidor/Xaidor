@@ -31,6 +31,9 @@ Welcome to my GitHub profile!
 - Continuously challenge myself with new tools and technologies.
 
 ---
-Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's innovate together! 🤝
+Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's innovate together! 
+
+![Kaylen Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaidor&hide=contribs&show_icons=true&theme=radical)
+
 
 
