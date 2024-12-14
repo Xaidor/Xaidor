@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 ---
 
 ### My Goals
-- Build efficient and scalable cloud-based architectures.
+- Integrate AI models to web applications.
 - Automate everything with CI/CD.
 - Master web server configurations to improve performance and security.
 - Deepen understanding of security technologies and best practices.
@@ -47,5 +47,14 @@ Welcome to my GitHub profile!
   </picture>
 </div>
 
+### How to Reach Me
+<div algin="flex">
+  <a href="https://www.linkedin.com/in/kaylenanderson">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@KaylenAnderson">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
 
 
