@@ -1,4 +1,8 @@
-<p align="center"><a href="https://xaidor.github.io"><img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-readme-header1.png" /></a></p>
+<p align="center">
+  <a href="https://xaidor.github.io">
+    <img width="80%" alt="Hello, I'm Kaylen" src="./assets/gh-readme-header1.png" />
+  </a>
+</p>
 
 <br />
 <div align="center">
