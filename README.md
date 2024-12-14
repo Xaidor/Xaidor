@@ -36,11 +36,11 @@ Welcome to my GitHub profile!
 <div align="center"> 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&hide=contribs&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&hide=contribs&show_icons=true&theme=material-palenight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true&theme=cobalt"
+      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true&theme=rose"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true" />
