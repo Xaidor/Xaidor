@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://medium.com/@KaylenAnderson">
-    <img width="40%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
+    <img width="55%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
   </a>
 </p>
 
