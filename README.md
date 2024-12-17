@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - **Database Systems** 💾: MySQL, PostgreSQL
 - **CI/CD Pipelines** 🔄: Jenkins, GitHub Actions, GitLab CI
 - **CMS Platforms** 🛠️: WordPress
-- **Security Technologies** 🔒: Firewalls, SSL/TLS, security groups, HashiCorp Vault
+- **Security Technologies** 🔒: Firewalls, SSL/TLS, HashiCorp Vault, Docker Secrets
 
 ---
 
