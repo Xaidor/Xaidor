@@ -6,8 +6,9 @@
 
 <br />
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
 </div>
+
 
 Welcome to my GitHub profile!
 ---
@@ -53,7 +54,8 @@ Welcome to my GitHub profile!
   </picture>
 </div>
 
-### How to Reach Me
+---
+### Get In Touch
 <div algin="flex">
   <a href="https://www.linkedin.com/in/kaylenanderson">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -61,6 +63,4 @@ Welcome to my GitHub profile!
   <a href="https://medium.com/@KaylenAnderson">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-</div>
-
-
+</div> 
