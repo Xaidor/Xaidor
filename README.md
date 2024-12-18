@@ -54,7 +54,6 @@ Welcome to my GitHub profile!
   </picture>
 </div>
 
----
 ### Get In Touch
 <div algin="flex">
   <a href="https://www.linkedin.com/in/kaylenanderson">
