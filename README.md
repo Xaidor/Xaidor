@@ -9,8 +9,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
 </div>
 
+<div>
+  <img align="left" src="./assets/Welcome.png" /> <img align="right" src="https://komarev.com/ghpvc/?username=TrevorB20&style=for-the-badge&color=blue" alt="Visitor Count" />
 
-Welcome to my GitHub profile!
+
 ---
 ### About Me
 - 🌱 **Always Learning**: Currently diving into cloud platforms, CI/CD pipelines, and web servers like Nginx and Apache.
