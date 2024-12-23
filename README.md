@@ -9,10 +9,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; padding: 0 20px;">
-  <img src="./assets/Welcome.png" alt="Welcome Image" style="max-width: 200px; height: auto;" />
-  <img src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" />
-</div>
+  <img align="left" src="./assets/Welcome.png" alt="Welcome Image" style="max-width: 200px; height: auto;" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" />
+
 
 
 <br />
@@ -22,7 +21,6 @@
 - 🌱 **Always Learning**: Currently diving into cloud platforms, CI/CD pipelines, and web servers like Nginx and Apache.
 - 🛠️ **Tinkerer at Heart**: Love testing out new architectures and finding innovative solutions.
 - 🖥️ **Dev & Ops Enthusiast**: Exploring the world of **WordPress**, **MySQL**, and beyond to build and optimize scalable systems.
-- 🌍 **Future-Focused**: Eager to contribute to impactful projects and level up my skills in the tech space.
 
 ---
 
