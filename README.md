@@ -12,6 +12,7 @@
 <div>
   <img align="left" src="./assets/Welcome.png" /> <img align="right" src="https://komarev.com/ghpvc/?username=TrevorB20&style=for-the-badge&color=blue" alt="Visitor Count" />
 
+<br />
 
 ---
 ### About Me
