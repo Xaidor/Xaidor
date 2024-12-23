@@ -11,7 +11,7 @@
 
 <div style="text-align: center;">
   <img src="./assets/Welcome.png" alt="Welcome Image" style="margin-right: 20px; display: inline-block;" />
-  <img src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" style="display: inline-block;" />
+  <img src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" style="margin-left: 40px; display: inline-block;" />
 </div>
 
 <br />
