@@ -10,8 +10,8 @@
 </div>
 
 <div>
-  <img style="display: inline-block; margin-right: 20px;" src="./assets/Welcome.png" alt="Welcome Image" /> 
-  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=pink" alt="Visitor Count" />
+  <img style="display: inline-block; margin-right: 40px;" src="./assets/Welcome.png" alt="Welcome Image" /> 
+  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=purple" alt="Visitor Count" />
 </div>
 
 <br />
