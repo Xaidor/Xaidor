@@ -12,15 +12,12 @@
   <img align="left" src="./assets/Welcome.png" alt="Welcome Image" style="max-width: 200px; height: auto;" />
   <img align="right" src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" />
 
-
-
-<br />
-
 ---
 ### About Me
 - 🌱 **Always Learning**: Currently diving into cloud platforms, CI/CD pipelines, and web servers like Nginx and Apache.
 - 🛠️ **Tinkerer at Heart**: Love testing out new architectures and finding innovative solutions.
-- 🖥️ **Dev & Ops Enthusiast**: Exploring the world of **WordPress**, **MySQL**, and beyond to build and optimize scalable systems.
+- 🖥️ **Dev & Ops Enthusiast**: Exploring the world of **WordPress**, **MySQL**, and beyond to build and optimize scalable systems
+- 🌍 **Future-Focused**: Eager to contribute to impactful projects and level up my skills in the tech space.
 ---
 
 ### Technologies I'm Exploring
