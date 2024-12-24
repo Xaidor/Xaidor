@@ -2,12 +2,11 @@
   <a href="https://medium.com/@KaylenAnderson">
     <img width="100%" alt="Hello, I'm Kaylen" src="./assets/gh-base-header.png" />
   </a>
-</p>
-
 <br />
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyZHg5N29zdzVvbHZoamxwYnNreTl6c3EyOGJuNTV6NTg0MGx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdNSp4L5vCU7aQrYnV/giphy.gif" alt="Coding GIF">
 </div>
+<br />
 
   <img align="left" src="./assets/Welcome.png" alt="Welcome Image" style="max-width: 200px; height: auto;" />
   <img align="right" src="https://komarev.com/ghpvc/?username=Xaidor&style=for-the-badge&color=ff69b4" alt="Visitor Count" />
