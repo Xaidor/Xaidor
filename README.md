@@ -31,7 +31,44 @@
 - **CI/CD Pipelines** 🔄: Jenkins, GitHub Actions, GitLab CI
 - **CMS Platforms** 🛠️: WordPress
 - **Security Technologies** 🔒: Firewalls, SSL/TLS, HashiCorp Vault, Docker Secrets
-
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=cd6799">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FFE42B">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=8ed5fa">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=8ed5fa">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Terraform&svgfill=BD4EF5">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=puppet&svgfill=df5c43">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=cd6799">
+</a>
+  
 ---
 
 ### My Goals
