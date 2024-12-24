@@ -21,7 +21,6 @@
 - 🌱 **Always Learning**: Currently diving into cloud platforms, CI/CD pipelines, and web servers like Nginx and Apache.
 - 🛠️ **Tinkerer at Heart**: Love testing out new architectures and finding innovative solutions.
 - 🖥️ **Dev & Ops Enthusiast**: Exploring the world of **WordPress**, **MySQL**, and beyond to build and optimize scalable systems.
-
 ---
 
 ### Technologies I'm Exploring
