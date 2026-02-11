@@ -76,28 +76,4 @@
 ---
   Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's innovate together! 
 
-<div align="center"> 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&hide=contribs&show_icons=true&theme=material-palenight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true&theme=rose"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true" />
-  </picture>
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xaidor&theme=material-palenight&layout=compact"
-    media="(prefers-color-scheme: dark)"
-    />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xaidor&theme=rose&layout=compact"
-    media="(prefers-color-scheme: light)"
-  /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=xaidor&show_icons=true" />
-</picture>
-</div>
 
