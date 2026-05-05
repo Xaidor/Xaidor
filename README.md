@@ -22,8 +22,8 @@
 ### Technologies I'm Exploring
 - **Cloud Platforms** ☁️: AWS, Azure, GCP
 - **Web Servers** 🌐: Nginx, Apache
-- **Database Systems** 💾: MySQL, PostgreSQL
-- **CI/CD Pipelines** 🔄: Jenkins, GitHub Actions, GitLab CI
+- **Database Systems** 💾: MySQL, AWS DynamoDB
+- **CI/CD Pipelines** 🔄: GitHub Actions, AWS CodePipeline
 - **CMS Platforms** 🛠️: WordPress
 - **Security Technologies** 🔒: Firewalls, SSL/TLS, HashiCorp Vault, Docker Secrets
 <p align="left">  
@@ -50,11 +50,12 @@
 ### My Goals
 - Integrate AI models to web applications.
 - Automate everything with CI/CD.
+- Deepen knowledge of Kubernetes & container orchestration
 - Master web server configurations to improve performance and security.
 - Deepen understanding of security technologies and best practices.
-- Continuously challenge myself with new tools and technologies.
+- Continue growing in C++ and SQL
 
 ---
-  Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's innovate together! 
+  I'm always open to feedback and collaboration. Feel free to explore my repositories and reach out. Let's innovate together! 
 
 
